@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CarInventorySystem/CarInventorySystem.iml" filepath="$PROJECT_DIR$/CarInventorySystem/CarInventorySystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleBigDecimal/DoubleBigDecimal.iml" filepath="$PROJECT_DIR$/DoubleBigDecimal/DoubleBigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntArrayList/IntArrayList.iml" filepath="$PROJECT_DIR$/IntArrayList/IntArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoStreamingService/VideoStreamingService.iml" filepath="$PROJECT_DIR$/VideoStreamingService/VideoStreamingService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lab-java-interfaces-and-abstract-classes.iml" filepath="$PROJECT_DIR$/.idea/lab-java-interfaces-and-abstract-classes.iml" />
     </modules>
   </component>
